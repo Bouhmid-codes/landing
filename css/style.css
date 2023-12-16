@@ -17,6 +17,7 @@ body {
   background-color: rgb(230, 229, 225);
   margin: 0;
   font-family: Open Sans;
+  overflow-x: hidden;
 }
 
 h1,
